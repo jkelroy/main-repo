@@ -1,0 +1,3 @@
+[submodule "vscode-gitlens"]
+	path = vscode-gitlens
+	url = https://github.com/gitkraken/vscode-gitlens
